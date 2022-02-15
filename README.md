@@ -22,6 +22,10 @@ https://github.com/neovim/neovim
 
 https://github.com/madnight/nano
 
+**Kate** not as minimal as the others, but a great text editor
+
+https://github.com/KDE/kate
+
 # IDE's
 
 **VsCodium** basically a fork of VS Code (looks exactly like VS Code but removed telemetry and other bloat stuff). Just better, I use it myself and I recommend giving this one a try.
