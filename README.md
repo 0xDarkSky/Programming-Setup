@@ -40,6 +40,10 @@ https://github.com/emacs-mirror/emacs
 
 https://github.com/eranif/codelite
 
+**Geany** as minimal as it can get compared to other IDE's.
+
+https://github.com/geany/geany
+
 **That's pretty much it for text editors/IDE's, feel free to open up an issue if I forgot to include something.**
 
 # What about the Operating System?
