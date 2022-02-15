@@ -34,8 +34,16 @@ https://github.com/atom/atom
 
 **Emacs** old but gold, might be a bit difficult to use, but definitely worth trying.
 
+https://github.com/emacs-mirror/emacs
+
 **CodeLite** I haven't used this one much, but it's pretty good for those who code in C/C++.
 
 https://github.com/eranif/codelite
 
-**That's pretty much it, feel free to open up an issue if I forgot to include something.**
+**That's pretty much it for text editors/IDE's, feel free to open up an issue if I forgot to include something.**
+
+# What about the Operating System?
+
+In my case, I prefer to use Linux since it's pretty easy to compile something or to setup the compilers, and well - Linux is better :)
+
+You can of course use Windows (I haven't checked how many of these work on Windows, but they're all compatible on Linux).
